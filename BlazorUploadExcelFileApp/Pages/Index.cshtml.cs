@@ -11,7 +11,7 @@ namespace BlazorUploadExcelFileApp.Pages
         {
             _logger = logger;
         }
-
+        public string HelloWorld => "Hello with model";
         public void OnGet()
         {
 
