@@ -1,0 +1,3 @@
+Installation gide
+1. double click on setup.exe
+2. run application
